@@ -7,6 +7,16 @@
 -😄 Pronouns: Sazzad
 -⚡ Fun fact: #coding
 
+
+- 🔭 I’m currently working on Daffodil International Professional Training Institute And FreEdu
+- 🌱 I’m currently working on NLP, Django, Spring Boot, MERN Stack, Android App Development(Java & Kotlin)
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with Backend Development
+- 💬 Ask me about Web Development and App development
+- 📫 How to reach me: Email: musfiqurrahmansayed@gmail.com
+- 😄 Pronouns: Musfiqur
+- ⚡ Fun fact: #coding 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/crimsix_uwu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsazzad369) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_crimsix) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@crimsix_uwu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdsazzad396) 
 
