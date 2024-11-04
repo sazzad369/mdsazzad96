@@ -1,20 +1,11 @@
--🔭 I’m currently working in Android application devolopment.
--🌱 I’m currently working on Android App Development(Java & Kotlin), Data science & ML
--👯 I’m looking to collaborate on GitHub
--🤔 I’m looking for help with Backend Development
--💬 Ask me about Android App development
--📫 How to reach me: Email: mdsazzad0369@gmail.com
--😄 Pronouns: Sazzad
--⚡ Fun fact: #coding
 
-
-- 🔭 I’m currently working on Daffodil International Professional Training Institute And FreEdu
-- 🌱 I’m currently working on NLP, Django, Spring Boot, MERN Stack, Android App Development(Java & Kotlin)
+- 🔭 I’m currently working on Android application devolopment. 
+- 🌱 I’m currently working on Android App Development(Java & Kotlin), Data science & ML
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about Web Development and App development
-- 📫 How to reach me: Email: musfiqurrahmansayed@gmail.com
-- 😄 Pronouns: Musfiqur
+- 📫 How to reach me: Email: mdsazzad0369@gmail.com
+- 😄 Pronouns: Sazzad
 - ⚡ Fun fact: #coding 
 
 ## 🌐 Socials:
