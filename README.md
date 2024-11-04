@@ -1,3 +1,11 @@
+🔭 I’m currently working in Android application devolopment.
+🌱 I’m currently working on Android App Development(Java & Kotlin), Data science & ML
+👯 I’m looking to collaborate on GitHub
+🤔 I’m looking for help with Backend Development
+💬 Ask me about Android App development
+📫 How to reach me: Email: mdsazzad0369@gmail.com
+😄 Pronouns: Sazzad
+⚡ Fun fact: #coding
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/crimsix_uwu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsazzad369) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_crimsix) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@crimsix_uwu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdsazzad396) 
